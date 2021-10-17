@@ -12,4 +12,7 @@ Here's how it goes :
 5. That's how your model is Much more optimised!
 
 Have a look at it in action here - 
-https://www.youtube.com/watch?v=Lqd8AA5sILo
+https://youtu.be/Lqd8AA5sILo
+
+Tutorial -
+https://youtu.be/6Rc-Hl3yUFQ
