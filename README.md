@@ -1,5 +1,5 @@
 # Vox-Cleaner
-Single-Click voxel model cleaner add-on for Blender 2.93!
+Single-Click voxel model cleaner add-on for Blender!
 
 How does it work:
 The script is essentially made to work with Blender, and it cleans planar surfaces with the help of Blender's decimate modifier. 
