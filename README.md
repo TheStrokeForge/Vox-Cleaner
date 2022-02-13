@@ -11,8 +11,12 @@ Here's how it goes :
 4. Bake colors from the Original model to the duplicate model with predefined settings, as most of the voxel models dont have much different bake settings.
 5. That's how your model is Much more optimised!
 
+
 Have a look at it in action here - 
 https://youtu.be/Lqd8AA5sILo
 
-Tutorial -
-https://youtu.be/6Rc-Hl3yUFQ
+More info on my website -
+https://www.thestrokeforge.xyz
+
+
+
